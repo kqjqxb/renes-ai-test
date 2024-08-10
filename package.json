@@ -1,6 +1,7 @@
 {
   "name": "renesandro-ai_test_ex",
   "version": "0.1.0",
+  "homepage": "https://kqjqxb.github.io/renes-ai-test/",
   "private": true,
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.6.0",
